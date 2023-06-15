@@ -35,5 +35,5 @@ Projekat je razvijen od strane Radenko Bogdanovic. Za sva pitanja ili sugestije,
 
 ## Licenca
 
-Ovaj projekat je licenciran pod [navesti vrstu licence]. Detalje možete pronaći u [fajlu sa licencom].
+Licencu za koristenje možete pronaći u [fajlu sa licencom](https://github.com/rasho/DMIN/blob/main/Licence.md).
 
