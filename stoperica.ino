@@ -1,3 +1,9 @@
+/*
+  Naziv projekta: Digitalni mjerac intervala vremena - DMIN
+  Autor: Radneko Bogdanovic
+  Datum: 08.03.2019
+*/
+
 #include <LiquidCrystal_I2C.h>
 #include <EEPROM.h>
 
