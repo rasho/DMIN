@@ -37,7 +37,8 @@ void setup() {
   pinMode(ledDirektni, OUTPUT);
   pinMode(ledInverzni, OUTPUT);
   pinMode(relayTipButton, INPUT_PULLUP);
-
+  
+  lcd.setBacklight(HIGH);
   lcd.begin(16, 2);
   lcd.print("DIGITALNI MJERAC");
   lcd.setCursor(0, 1);
