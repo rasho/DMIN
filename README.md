@@ -1,6 +1,6 @@
 # Digitalni merač vremena
 
-Ovaj projekat predstavlja digitalni merač intervala vremena koji koristi Arduino za merenje vremena u satima, minutima, sekundama i milisekundama. Uredjaj se koristi za mjerenje intervala vremena vremenskih releja (Direktnih ili indirektnih). Pomocu ocig uredjaja mozete precizno podesiti vremenski relej na odredjeno vreme odrade.
+Ovaj projekat predstavlja digitalni merač intervala vremena koji koristi Arduino za merenje vremena u satima, minutima, sekundama i milisekundama. Uredjaj se koristi za mjerenje intervala vremena vremenskih releja (Direktnih ili indirektnih). Pomocu ovog uredjaja mozete precizno podesiti vremenski relej na odredjeno vreme odrade.
 
 ## Komponente
 
