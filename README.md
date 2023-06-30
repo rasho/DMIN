@@ -31,7 +31,7 @@ Ovaj projekat predstavlja digitalni merač intervala vremena koji koristi Arduin
 
 ## Autor
 
-Projekat je razvijen od strane Radenko Bogdanovic. Za sva pitanja ili sugestije, možete me kontaktirati na [e-pošta].
+Projekat je razvijen od strane Radenko Bogdanovic. Za sva pitanja ili sugestije, možete me kontaktirati na [mail](rasho984@gmail.com).
 
 ## Licenca
 
